@@ -2,10 +2,10 @@
 
 # Payment Gateway, SnappPay
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/backendprogramer/snapp-pay.svg?style=flat-square)](https://packagist.org/packages/backendprogramer/snapp-pay)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/backendprogramer/laravel-snapp-pay/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/backendprogramer/laravel-snapp-pay/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/backendprogramer/laravel-snapp-pay/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/backendprogramer/laravel-snapp-pay/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/backendprogramer/snapp-pay.svg?style=flat-square)](https://packagist.org/packages/backendprogramer/snapp-pay)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/Peyman136/snapp-pay.svg?style=flat-square)](https://packagist.org/packages/Peyman136/snapp-pay)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/Peyman136/laravel-snapp-pay/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/Peyman136/laravel-snapp-pay/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/Peyman136/laravel-snapp-pay/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/Peyman136/laravel-snapp-pay/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/Peyman136/snapp-pay.svg?style=flat-square)](https://packagist.org/packages/Peyman136/snapp-pay)
 
 This is a Laravel package for the SnappPay payment gateway. This package supports Laravel 10+.
 
@@ -18,7 +18,7 @@ This is a Laravel package for the SnappPay payment gateway. This package support
 You can install the package via composer:
 
 ```bash
-composer require backendprogramer/snapp-pay
+composer require Peyman136/snapp-pay
 ```
 
 You can publish the config file with:
@@ -148,7 +148,7 @@ $resultCancel = $snappPay->cancelOrder($order->getPaymentToken());
 ```
 For more information about how it works, please refer to the example below.
 
-https://github.com/backendprogramer/laravel-snapp-pay-example
+https://github.com/Peyman136/laravel-snapp-pay-example
 
 ## Testing
 
@@ -170,7 +170,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Ali Ghorbani](https://github.com/backendprogramer)
+- [Ali Ghorbani](https://github.com/Peyman136)
 - [All Contributors](../../contributors)
 
 ## License
