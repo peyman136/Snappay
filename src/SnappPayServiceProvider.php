@@ -1,6 +1,6 @@
 <?php
 
-namespace BackendProgramer\SnappPay;
+namespace Peyman136\SnappPay;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;

@@ -1,13 +1,13 @@
 <?php
 
-namespace BackendProgramer\SnappPay\Abstracts;
+namespace Peyman136\SnappPay\Abstracts;
 
-use BackendProgramer\SnappPay\Contracts\SnappPayInterface;
-use BackendProgramer\SnappPay\Order\Order;
-use BackendProgramer\SnappPay\SnappPayEndpoint;
-use BackendProgramer\SnappPay\SnappPaySetting;
-use BackendProgramer\SnappPay\Traits\EndpointSettings;
-use BackendProgramer\SnappPay\Traits\OrderSettings;
+use Peyman136\SnappPay\Contracts\SnappPayInterface;
+use Peyman136\SnappPay\Order\Order;
+use Peyman136\SnappPay\SnappPayEndpoint;
+use Peyman136\SnappPay\SnappPaySetting;
+use Peyman136\SnappPay\Traits\EndpointSettings;
+use Peyman136\SnappPay\Traits\OrderSettings;
 use JetBrains\PhpStorm\Pure;
 
 abstract class SnappPay implements SnappPayInterface

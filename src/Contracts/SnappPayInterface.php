@@ -1,8 +1,8 @@
 <?php
 
-namespace BackendProgramer\SnappPay\Contracts;
+namespace Peyman136\SnappPay\Contracts;
 
-use BackendProgramer\SnappPay\Order\Order;
+use Peyman136\SnappPay\Order\Order;
 
 interface SnappPayInterface
 {

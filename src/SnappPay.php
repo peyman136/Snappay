@@ -1,11 +1,11 @@
 <?php
 
-namespace BackendProgramer\SnappPay;
+namespace Peyman136\SnappPay;
 
-use BackendProgramer\SnappPay\Abstracts\SnappPay as AbstractsSnappPay;
-use BackendProgramer\SnappPay\enums\Currency;
-use BackendProgramer\SnappPay\enums\EPType;
-use BackendProgramer\SnappPay\Order\Order;
+use Peyman136\SnappPay\Abstracts\SnappPay as AbstractsSnappPay;
+use Peyman136\SnappPay\enums\Currency;
+use Peyman136\SnappPay\enums\EPType;
+use Peyman136\SnappPay\Order\Order;
 use JetBrains\PhpStorm\ArrayShape;
 
 class SnappPay extends AbstractsSnappPay

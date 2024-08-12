@@ -1,8 +1,8 @@
 <?php
 
-namespace BackendProgramer\SnappPay\Cart;
+namespace Peyman136\SnappPay\Cart;
 
-use BackendProgramer\SnappPay\Order\ProductCategory;
+use Peyman136\SnappPay\Order\ProductCategory;
 use JetBrains\PhpStorm\Pure;
 
 class CartItem

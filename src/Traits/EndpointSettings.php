@@ -1,6 +1,6 @@
 <?php
 
-namespace BackendProgramer\SnappPay\Traits;
+namespace Peyman136\SnappPay\Traits;
 
 trait EndpointSettings
 {

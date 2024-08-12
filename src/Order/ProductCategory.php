@@ -1,6 +1,6 @@
 <?php
 
-namespace BackendProgramer\SnappPay\Order;
+namespace Peyman136\SnappPay\Order;
 
 class ProductCategory
 {

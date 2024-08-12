@@ -1,8 +1,8 @@
 <?php
 
-namespace BackendProgramer\SnappPay;
+namespace Peyman136\SnappPay;
 
-use BackendProgramer\SnappPay\Traits\EndpointSettings;
+use Peyman136\SnappPay\Traits\EndpointSettings;
 
 class SnappPayEndpoint
 {

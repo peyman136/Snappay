@@ -1,6 +1,6 @@
 <?php
 
-// config for BackendProgramer/SnappPay
+// config for Peyman136/SnappPay
 return [
     /**
      * Basic information for Snapp Pay; obtain this information from Snapp Pay support.

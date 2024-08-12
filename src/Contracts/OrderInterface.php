@@ -1,6 +1,6 @@
 <?php
 
-namespace BackendProgramer\SnappPay\Contracts;
+namespace Peyman136\SnappPay\Contracts;
 
 interface OrderInterface
 {

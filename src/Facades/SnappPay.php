@@ -1,16 +1,16 @@
 <?php
 
-namespace BackendProgramer\SnappPay\Facades;
+namespace Peyman136\SnappPay\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \BackendProgramer\SnappPay\SnappPay
+ * @see \Peyman136\SnappPay\SnappPay
  */
 class SnappPay extends Facade
 {
     protected static function getFacadeAccessor(): string
     {
-        return \BackendProgramer\SnappPay\SnappPay::class;
+        return \Peyman136\SnappPay\SnappPay::class;
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace BackendProgramer\SnappPay\enums;
+namespace Peyman136\SnappPay\enums;
 
 class Currency
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace BackendProgramer\SnappPay\Cart;
+namespace Peyman136\SnappPay\Cart;
 
-use BackendProgramer\SnappPay\Abstracts\CartList as AbstractsCartList;
-use BackendProgramer\SnappPay\enums\Currency;
+use Peyman136\SnappPay\Abstracts\CartList as AbstractsCartList;
+use Peyman136\SnappPay\enums\Currency;
 use JetBrains\PhpStorm\ArrayShape;
 use JetBrains\PhpStorm\Pure;
 
